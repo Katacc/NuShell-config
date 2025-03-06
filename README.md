@@ -7,9 +7,10 @@ This is written and tested on windows machine, so make sure to change environmen
 your system variables if you use different system. eg $user_name
 
 ## Screenshots
+![Screenshot of whole prompt](./NuShell_screenshots/nushell_example_whole.png) \
 ![Screenshot with git](./NuShell_screenshots/nushell_example.png) \
-![Screenshot without git](./NuShell_screenshots/nushell_example_no_git.png)
-
+![Screenshot without git](./NuShell_screenshots/nushell_example_no_git.png) \
+![Screenshot of right prompt (datetime)](./NuShell_screenshots/nushell_example_datetime.png)
 
 Prequisites
 - Git
