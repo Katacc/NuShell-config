@@ -1,5 +1,8 @@
 # NuShell-config
 
+I wanted to share my shell configuration for NuShell, so here it is! Feel free to use as you wish
+
+
 This is written and tested on windows machine, so make sure to change environment variables to match
 your system variables if you use different system. eg $user_name
 
