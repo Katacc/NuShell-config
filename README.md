@@ -7,7 +7,7 @@ This is written and tested on windows machine, so make sure to change environmen
 your system variables if you use different system. eg $user_name
 
 ## Screenshots
-![Screenshot with git](./NuShell_screenshots/nushell_example.png) //
+![Screenshot with git](./NuShell_screenshots/nushell_example.png) \
 ![Screenshot without git](./NuShell_screenshots/nushell_example_no_git.png)
 
 
