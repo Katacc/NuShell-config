@@ -13,8 +13,7 @@ your system variables if you use different system. eg $user_name
 
 Prequisites
 - Git
-- Neofetch
-If you don't have neofetch installed or dont want to use it, please comment it out from the last line.
+- Neofetch (If you don't have neofetch installed or dont want to use it, please comment it out from the last line.)
 
 
 ## Documentation
