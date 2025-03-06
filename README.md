@@ -6,6 +6,10 @@ I wanted to share my shell configuration for NuShell, so here it is! Feel free t
 This is written and tested on windows machine, so make sure to change environment variables to match
 your system variables if you use different system. eg $user_name
 
+## Screenshots
+[[./NuShell_screenshots/nushell_example.png]]
+[[./NuShell_screenshots/nushell_example_no_git.png]]
+
 
 Prequisites
 - Git
