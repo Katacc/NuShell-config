@@ -13,6 +13,17 @@ Prequisites
 If you don't have neofetch installed or dont want to use it, please comment it out from the last line.
 
 
+## Documentation
+By default, on the top line it shows your user name.
+When in git folder, it switches to git top line, wich shows in order from left to right
+- Git .. Just means that you are in git folder
+- Current branch
+- Unstaged changes
+- Untracked files
+
+
+
+## Configuration
 Username environment variable
 ```
 let user_name = $env.USERNAME
